@@ -1,0 +1,76 @@
+UNDERGRADUATE: 
+
+Loyola University (New Orleans, Louisiana)
+Walter Block
+William Barnett II
+John Levendis
+Leo Krasnozhon
+
+George Mason University (Fairfax, Virginia)
+Tyler Cowen
+Alex Tabarrok
+Bryan Caplan
+Peter J Boettke
+Donald J Boudreaux
+Chris Coyne
+Lawrence H White
+Walter Williams
+
+Clemson University (Clemson, South Carolina) 
+C. Bradley Thompson
+Eric Daniels
+Richard Ebeling
+
+Grove City College (Grove City, Pennsylvania)
+Shawn Ritenour
+Jeffrey Herbener
+
+Hillsdale College (Hillsdale, Michigan)
+Michael Clark
+Ivan Pongracic
+Charles Steele
+Gary Wolfram
+Christopher Martin
+Roger Butters
+
+--
+
+GRADUATE:
+
+George Mason University (Fairfax, Virginia)
+Tyler Cowen
+Alex Tabarrok
+Bryan Caplan
+Peter J Boettke
+Donald J Boudreaux
+Chris Coyne
+Lawrence H White
+Walter Williams
+
+Texas Tech University (Lubbock, Texas)
+Benjamin Powell
+Adam Martin
+
+--
+
+PHD
+
+George Mason University (Fairfax, Virginia)
+Tyler Cowen
+Alex Tabarrok
+Bryan Caplan
+Peter J Boettke
+Donald J Boudreaux
+Chris Coyne
+Lawrence H White
+Walter Williams
+
+Texas Tech University (Lubbock, Texas)
+Benjamin Powell
+Adam Martin
+
+University of Angers (Angers, France)
+Guido Hulsman
+
+King Juan Carlos University (Madrid, Spain)
+Jesus Huerta de Soto
